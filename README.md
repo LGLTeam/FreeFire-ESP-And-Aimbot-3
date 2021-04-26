@@ -3,8 +3,6 @@ A customized LGL Android mod menu, containing Canvas ESP, aimbot, hooking, and p
 
 Project was been sent to me by brazilian modders, but I don't care about shitty Free Fire anymore, I will share here publicly
 
-Don't ask me how to use it, instead learn from the internet from Guided Hacking and Unknowncheats. Tutorials for PC can still be useful, they work the same, just the code that are slightly different
-
 Mod menu is based on my old template
 
 # Screenshot
@@ -15,4 +13,8 @@ Mod menu is based on my old template
 ![](https://i.imgur.com/SEQXUr1.png)
 
 # Warning
+**WE SHARE THIS PROJECT FOR EDUCATIONAL PURPOSES ONLY, TO LEARN HOW THIS PROJECT WORKS. WE DO NOT ENCOURAGE YOU TO MOD FREE FIRE OR ANY TENCENT GAMES. DOING SO MAY END YOU UP IN LEGAL TROUBLE. YOU ARE ONLY RESPONSABLE FOR YOUR ACTIONS.**
+
+**WE WILL NEVER OFFER HELP AND SUPPORT WITH THIS PROJECT. DON'T ask how to use it and/or fixing the project, instead learn from the internet or ask for help on any modding community forum sites.**
+
 **DON'T SELL THE SOURCE, DON'T BUY FROM SOMEONE EITHER WHEN YOU CAN GET IT FOR FREE, DON'T GET SCAMMED. SAVE YOU MONEY**
